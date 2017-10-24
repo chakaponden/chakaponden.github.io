@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1">
+  <input leveltileurl="tiles/kitchen_stitch/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="5376" levelbias="0.400" overlap="1" levelbiashidpi="0.400" height="5376" levelingroll="0" leveltilesize="9000">
+    <level width="5376" preload="1" height="5376" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start pan="0" tilt="0" fov="70"/>
+    <min pan="-180" tilt="-54.6456" fov="5"/>
+    <max pan="180" tilt="54.6456" fov="120"/>
+  </view>
+  <userdata info="" comment="" longitude="" author="" latitude="" source="" description="" tags="from-canon" title="" copyright="" datetime="2017:10:14 17:49:17"/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label enabled="1" backgroundcolor="0xffffff" width="180" background="1" height="20" backgroundalpha="1" borderradius="1" borderalpha="1" border="1" wordwrap="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000"/>
+    <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition enabled="0" zoomout="0" zoomin="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomfov="20" type="crossdissolve" softedge="0"/>
+  <control lockedkeyboardzoom="0" invertwheel="0" lockedwheel="0" hideabout="0" sensitivity="8" simulatemass="1" invertcontrol="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="0"/>
+</panorama>
