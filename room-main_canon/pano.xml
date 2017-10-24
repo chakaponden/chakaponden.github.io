@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1">
+  <input leveltileurl="tiles/room-main_stitch/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" overlap="1" levelingpitch="0" height="2859" leveltilesize="9000" levelbias="0.400" levelingroll="0" width="2859">
+    <level predecode="1" preload="1" height="2859" width="2859"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start tilt="0" pan="0" fov="70"/>
+    <min tilt="-72.2076" pan="-180" fov="5"/>
+    <max tilt="72.2076" pan="180" fov="120"/>
+  </view>
+  <userdata datetime="2017:10:14 15:25:36" copyright="" source="" info="" comment="" tags="from-canon" description="" latitude="" longitude="" title="" author=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label enabled="1" backgroundalpha="1" borderalpha="1" background="1" textalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" border="1" wordwrap="1" width="180"/>
+    <polystyle backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition enabled="0" softedge="0" blendcolor="0x000000" zoomout="0" blendtime="1" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20"/>
+  <control sensitivity="8" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" invertwheel="0" simulatemass="1" contextfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" hideabout="0"/>
+</panorama>

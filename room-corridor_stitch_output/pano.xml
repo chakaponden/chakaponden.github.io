@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1">
+  <input height="5248" levelbiashidpi="0.400" leveltilesize="9000" overlap="1" leveltileurl="tiles/room-corridor_stitch/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" width="5248">
+    <level preload="1" height="5248" predecode="1" width="5248"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" pan="0" tilt="0"/>
+    <min fov="5" pan="-180" tilt="-54.1154"/>
+    <max fov="120" pan="180" tilt="54.1154"/>
+  </view>
+  <userdata title="" tags="from-galaxy-s7" copyright="" author="" latitude="53.887118" longitude="27.423465" datetime="2017:10:14 16:17:46" description="" source="" info="" comment=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label textcolor="0x000000" height="20" background="1" borderalpha="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" border="1" wordwrap="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1"/>
+    <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+  </hotspots>
+  <media/>
+  <transition enabled="0" type="crossdissolve" zoomfov="20" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomin="0" zoomout="0"/>
+  <control hideabout="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="0" lockedmouse="0" simulatemass="1" sensitivity="8" invertcontrol="1"/>
+</panorama>
