@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <panorama id="node1">
-  <input levelbiashidpi="0.400" height="5376" levelbias="0.400" overlap="1" levelingroll="0" width="5376" leveltileurl="tiles/room-hall_stitch/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="9000">
-    <level height="5376" width="5376" predecode="1" preload="1"/>
-    <preview strip="1" color="0x808080"/>
+  <input overlap="1" leveltilesize="9000" leveltileurl="tiles/room-hall_stitch/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="3000" height="3000" levelbias="0.400" levelingroll="0" levelingpitch="0">
+    <level predecode="1" preload="1" width="3000" height="3000"/>
+    <preview color="0x808080" strip="1"/>
   </input>
   <view pannorth="0" fovmode="0">
     <start tilt="0" pan="0" fov="70"/>
-    <min tilt="-54.238" pan="-180" fov="5"/>
-    <max tilt="54.238" pan="180" fov="120"/>
+    <min tilt="-54.2401" pan="-180" fov="5"/>
+    <max tilt="54.2401" pan="180" fov="120"/>
   </view>
-  <userdata title="" source="" tags="from-galaxy-s7" datetime="2017:10:14 15:40:37" copyright="" info="" latitude="53.887219" author="" description="" comment="" longitude="27.423893"/>
-  <hotspots wordwrap="1" height="20" width="180">
-    <label background="1" borderalpha="1" bordercolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" height="20" border="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" textalpha="1" backgroundalpha="1"/>
-    <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+  <userdata description="" datetime="2017:10:25 09:02:25" comment="" info="" tags="site" longitude="27.423893" author="" source="" title="" copyright="" latitude="53.887219"/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label textalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" background="1" width="180" borderalpha="1" height="20" border="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1"/>
+    <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
   </hotspots>
   <media/>
-  <transition softedge="0" zoomoutpause="1" blendtime="1" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" enabled="0" zoomout="0" blendcolor="0x000000"/>
-  <control lockedkeyboard="0" speedwheel="1" contextfullscreen="0" lockedmouse="0" lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" invertwheel="0" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  <transition type="crossdissolve" zoomspeed="2" softedge="0" zoomin="0" zoomout="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" enabled="0" zoomfov="20"/>
+  <control sensitivity="8" dblclickfullscreen="0" hideabout="0" simulatemass="1" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0"/>
 </panorama>
